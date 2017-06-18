@@ -1,0 +1,20 @@
+{
+    "name": "playcrab0780/yhl0780",
+    "description": "测试一下自己安装的包",
+    "license":"MIT",
+    "authors": [
+        {
+            "name": "杨浩亮",
+            "email": "yanghaoliang@playcrab.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sdkDemo\\": "src/"
+        }
+    },
+    "minimum-stability":"dev"
+}
