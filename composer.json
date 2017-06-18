@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yhl0780\\": "src/"
+            "YhlDemo\\": "src/"
         }
     },
     "minimum-stability":"dev"
