@@ -1,9 +1,9 @@
 <?php
-namespace sdkDemo;
+namespace playcrab0780;
 /**
 * 
 */
-class Demo
+class Yhl0780
 {
 	
 	public function HelloWord()
